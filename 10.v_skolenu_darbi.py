@@ -19,7 +19,7 @@
 #9 Krastiņš Guntis
 
 #10 Ločmele Līva
-
+print(cos(radians(60)+fmod(15,2)))
 #11 Milliņš Māris
 
 #12 Plonis Gustavs
